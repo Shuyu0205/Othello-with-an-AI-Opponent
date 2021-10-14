@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """ A Python module for the Othello game. 
-TODO: Add a description of the module. 
+
  
 Full name: Shuyu Zhang 
 StudentId: 10194589
