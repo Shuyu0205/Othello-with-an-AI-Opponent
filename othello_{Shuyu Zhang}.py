@@ -7,12 +7,10 @@ StudentId: 10194589
 Email: shuyu.zhang@student.manchester.ac.uk 
 """ 
  
-from copy import deepcopy # you may use this for copying a board 
+from copy import deepcopy
  
 def newGame(player1,player2):
-     """      
-     Make sure you write meaningful docstrings!
-     """     
+
      game = {} 
      game['player1']=player1
      game['player2']=player2
@@ -280,9 +278,7 @@ def suggestMove1(board,who):
 
 # ------------------- Main function -------------------- 
 def play():
-     """
-     TODO in Task 11. Make sure to write meaningful docstrings!     
-     """     
+
      print("*"*55)     
      print("***"+" "*8+"NOT WELCOME TO Shuyu'S OTHELLO GAME!"+" "*8+"***")     
      print("*"*55,"\n")     
